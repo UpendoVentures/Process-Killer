@@ -11,8 +11,13 @@ Run the following commands, or simply double-click the file from file explorer.
 
 ```bash
 cd C:\MyChosenFolder\Path
+```
+
+```bash  
 KillProcesses
 ```
+
+![KillProcesses-Result](https://github.com/UpendoVentures/Process-Killer/assets/938023/b9e91e81-150a-4df6-a749-cb6d9f3487fc)
 
 ## How to Reset/Go Back  
 A future update may have a new command, perhaps.  In the meantime, it's just best to reboot.  
