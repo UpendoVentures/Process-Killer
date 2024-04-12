@@ -15,7 +15,10 @@ cd C:\MyChosenFolder\Path
 
 ```bash  
 KillProcesses
-```
+```  
+
+## Result  
+The exact result will depend on if you've already run the command and/or if you have the services the batch file knows about.  Here's an example from a computer that has all of the services, but it was run a second time to generate the screenshot.  
 
 ![KillProcesses-Result](https://github.com/UpendoVentures/Process-Killer/assets/938023/b9e91e81-150a-4df6-a749-cb6d9f3487fc)
 
