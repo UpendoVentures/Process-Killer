@@ -2,12 +2,12 @@
 
 Do you ever share your screen and get embarrassed because someone said something that appeared on your screen during an online meeting?  
 
-This batch file is something that can be used in addition to turning on Presenter Mode in Windows.  It's very useful to ensure that no apps notify you about things.  For example, Slack is resilient and will keep restarting itself if you don't shut down the service.  Annoying!!!
+This batch file is something that can be used in addition to turning on [Presenter Mode in Windows](https://github.com/UpendoVentures/Process-Killer#what-is-presenter-mode).  It's very useful to ensure that no apps notify you about things.  For example, Slack is resilient and will keep restarting itself if you don't shut down the service.  Annoying!!!
 
-To use this batch script, just save it anywhere you know where it will be and then either double-click it to execute it, or use the windows CMD prompt (in Administrator mode) to run it.  
+To use this batch script, just save it anywhere you know where it will be and then either double-click it to execute it, or use the Windows `CMD` prompt (in Administrator mode) to run it.  
 
 ## How to Use  
-Run the following commands, or simply double-click the file from file explorer.  
+Run the following commands, or simply double-click the file from File Explorer.  
 
 ```bash
 cd C:\MyChosenFolder\Path
